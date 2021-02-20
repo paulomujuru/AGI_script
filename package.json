@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "agi": "^0.0.4",
+    "ding-dong": "^0.1.7"
+  }
+}
